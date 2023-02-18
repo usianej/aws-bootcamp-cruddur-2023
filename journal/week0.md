@@ -15,3 +15,10 @@ https://lucid.app/lucidchart/1880b560-e920-4f29-a461-d39817fe71f8/edit?viewport_
 ![Conceptual Diagram](../Images/Conceptual_Diagram.png)
 
 ### Install AWS CLI
+
+> I reallly like the *aws --cli-auto-prompt* and how it is able to suggest the commands.
+
+- The main issue I had with the AWS CLI setup was at the point of  pushing my code to my github repo, there was no authorization for gitpod to push, I had to grant the accesson github.
+
+
+
